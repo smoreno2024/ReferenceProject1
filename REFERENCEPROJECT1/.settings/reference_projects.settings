@@ -1,0 +1,6 @@
+{
+  "reference_projects" : [ {
+    "project" : "ADVANCETRAININGGIT",
+    "branch" : "main"
+  } ]
+}
